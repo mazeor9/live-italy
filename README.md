@@ -2,12 +2,14 @@
 
 **Live Italy API wrapper** — Fetch Italian statistics across economy, population, health, politics, society, security, work, and media. Full TypeScript support included.
 
-<div align="center">
+  <div align="center">
   <p>
-    <a href="https://www.npmjs.com/package/live-italy"><img src="https://img.shields.io/npm/v/live-italy.svg?logo=npm&style=for-the-badge" alt="npm version" /></a>
-    <a href="https://www.npmjs.com/package/live-italy"><img src="https://img.shields.io/npm/dt/live-italy.svg?style=for-the-badge" alt="npm downloads" /></a>
-    <a href="https://live-italy.vercel.app"><img src="https://img.shields.io/website?url=https%3A%2F%2Flive-italy.vercel.app&style=for-the-badge" alt="API status" /></a>
-    <a href="https://github.com/yourusername/live-italy"><img src="https://img.shields.io/github/license/yourusername/live-italy?style=for-the-badge" alt="license" /></a>
+    <a href="https://github.com/mazeor9/live-italy/releases/latest">
+  <img src="https://img.shields.io/github/v/release/mazeor9/live-italy?style=for-the-badge" alt="GitHub release (latest SemVer)" /></a>
+    <a href="https://github.com/mazeor9/live-italy/releases/latest">
+    <img src="https://img.shields.io/github/release-date/mazeor9/live-italy?label=latest%20release&style=for-the-badge" alt="Latest release" /></a>
+   <a href="https://www.npmjs.com/package/live-italy"><img src="https://img.shields.io/npm/v/live-italy.svg?logo=npm&style=for-the-badge" alt="npm version" /></a>
+    <a href="https://www.npmjs.com/package/live-italy"><img src="https://img.shields.io/npm/dt/live-italy.svg?style=for-the-badge" alt="NPM downloads" /></a>
   </p>
 </div>
 
