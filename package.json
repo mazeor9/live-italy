@@ -1,0 +1,64 @@
+{
+  "name": "live-italy",
+  "version": "1.0.0",
+  "description": "API wrapper for the Live Italy API — real-time Italian statistics and open data.",
+  "main": "index.js",
+  "module": "index.js",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "import": "./index.js",
+      "require": "./index.js",
+      "default": "./index.js"
+    }
+  },
+  "types": "./index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "tsconfig.json",
+    "methods/",
+    "axiosInstance/",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node -e \"console.log('no tests yet')\"",
+    "lint": "eslint . || echo 'no linter configured'",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mazeor9/live-italy"
+  },
+  "homepage": "https://live-italy.vercel.app",
+  "bugs": {
+    "url": "https://github.com/mazeor9/live-italy/issues"
+  },
+  "keywords": [
+    "italy-api",
+    "live-italy",
+    "open-data",
+    "real-time",
+    "statistics",
+    "economy",
+    "population",
+    "health",
+    "politics",
+    "society",
+    "nodejs",
+    "typescript",
+    "vercel",
+    "axios",
+    "public-api"
+  ],
+  "author": "mazeor9",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.12.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.5",
+    "eslint": "^9.38.0",
+    "typescript": "^5.9.3"
+  }
+}
