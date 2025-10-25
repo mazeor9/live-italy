@@ -108,10 +108,6 @@ type Format = 'full' | 'compact';
 * `order` — (optional) `"asc"` | `"desc"` (default `"desc"`)
 * `format` — (optional) `"full"` | `"compact"` (default `"full"`)
 
-### Notes
-
-* Counters like `births_today`, `deaths_today`, `current_population` are stored as `calculated` rows and updated by the DB procedure. There’s **no** `?realtime=true` flag.
-
 ---
 
 ## Getting Categories
