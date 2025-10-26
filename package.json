@@ -1,6 +1,6 @@
 {
   "name": "live-italy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "API wrapper for the Live Italy API — real-time Italian statistics and open data.",
   "main": "index.js",
   "module": "index.js",
