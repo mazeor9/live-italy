@@ -30,7 +30,6 @@
     "type": "git",
     "url": "https://github.com/mazeor9/live-italy"
   },
-  "homepage": "https://live-italy.vercel.app",
   "bugs": {
     "url": "https://github.com/mazeor9/live-italy/issues"
   },
@@ -45,11 +44,14 @@
     "health",
     "politics",
     "society",
-    "nodejs",
-    "typescript",
-    "vercel",
-    "axios",
-    "public-api"
+    "public-api",
+    "gdp-data",
+    "gdp-api",
+    "open-api",
+    "api-data",
+    "stats-api",
+    "api-stats-country",
+    "country"
   ],
   "author": "mazeor9",
   "license": "MIT",
