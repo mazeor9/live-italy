@@ -51,7 +51,8 @@
     "api-data",
     "stats-api",
     "api-stats-country",
-    "country"
+    "countries-gdp",
+    "gdp-open-api"
   ],
   "author": "mazeor9",
   "license": "MIT",
